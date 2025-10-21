@@ -1,5 +1,5 @@
 objectid,filename,title,format,date,subject,creator,description,pattern or orginal,use
-coll001,ggdcrossstitchbedspread1.jpg,Floral Cross-Stitch Bedspread,image/jpeg,1993,cross-stitch,"Dye,Elaine",A queen-size cross-stitched bedspread with a repeating floral pattern and a hand-stitched inscription.,original,bedspread
+coll001,ggdcrossstitchbedspread1.jpg,Floral Cross-Stitch Bedspread,image/jpeg,1993,cross-stitch;quilting,"Dye,Elaine",A queen-size cross-stitched bedspread with a repeating floral pattern and a hand-stitched inscription.,original,bedspread
 coll002,ggdcrossstitchblanket1.jpg,"Cross-Stitch Blanket with Animals, Flowers, and Text",image/jpeg,1970,cross-stitch,"Dye,Elaine","A twin-size cross-stitched blanket with Bambi, flowers, and the name Sarah. Made shortly after Sarah was born",pattern,blanket
 coll003,ggdembroidery1.jpg,Large Embroidered Bouquet ,image/jpeg,1986,embroidery,"Dye,Elaine",A large embroidered floral bouquet in a handmade wood frame with a written inscription.,original,decor
 coll004,ggdcrossstitch1.jpg,Cross-Stitch Law Degree Commemoration,image/jpeg,1996,cross-stitch,"Dye,Elaine","A cross-stitched image of scales and a quill pen with ink, commemorating Sarah Arnold's graduation from Law School at IU.",original,commemoration
@@ -21,5 +21,5 @@ coll109,sophiaembroidery2.jpg,Embroidered Purple Hummingbird and Flowers,image/j
 coll020,sophiaembroidery3.jpg,Embroidered Pink Hummingbird and Flowers,image/jpeg,2025,embroidery,"Arnold, Sophia",An embroidery with a pink hummingbird and flowers in a circular frame.,pattern,decor
 coll021,sophiaembroidery4.jpg,Embroidered Floral Scene,image/jpeg,2022,embroidery,"Arnold, Sophia",An embroidery with a variety of flowers on an oilve green background.,pattern,decor
 coll022,sophiaembroidery5.jpg,Embroidered Floral Scene with Butterflies,image/jpeg,2022,embroidery,"Arnold, Sophia",An embroidery with roses and butterflies on a light green background.,pattern,decor
-coll023,ggge:ggd:jatextile1.jpg,Jeans with Quilted Patch,image/jpeg,2020,quilting/hand-stitching,"Arnold, Julia",A pair of jeans with hand-stitched quilt patches.,original,clothing
+coll023,ggge:ggd:jatextile1.jpg,Jeans with Quilted Patch,image/jpeg,2020,quilting;hand-stitching,"Arnold, Julia",A pair of jeans with hand-stitched quilt patches.,original,clothing
 col024,anonembroidery1.jpg,Small Embroidered Spring Bouquet,image/jpeg,1970,embroidery,anon,A small embroidery of a bouquet with daffodils and other spring flowers.,pattern,decor
