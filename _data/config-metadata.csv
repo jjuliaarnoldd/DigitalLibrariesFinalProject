@@ -8,8 +8,8 @@ location,Location, false
 latitude,Latitude, false
 longitude,Longitude, false
 source,Source
-origin, Origin
-use, Use
+origin,Origin,true
+use,Use,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
