@@ -1,7 +1,7 @@
 objectid,parentid,filename,title,format,date,subject,creator,description,origin,use
 coll001,,ggdcrossstitchbedspread1.jpg,Floral Cross-Stitch Bedspread,compound_object,1993,cross-stitch; quilting; hand-stitching,"Dye,Elaine",A queen-size cross-stitched bedspread with a repeating floral pattern and a hand-stitched inscription.,original,bedspread
-coll002,coll001,ggdinscription2.jpg,Bedspread Inscription,image/jpeg,1993,hand-stitching,"Dye,Elaine","A hand-stitched inscription tag. Reads: ""With Love Grandma Dye 1993""",original,
-coll003,coll001,ggdbedspreaddetail1.jpg,Bedspread Detail,image/jpeg,1993,cross-ctitch,"Dye,Elaine",A detail of a larger cross-stitched bedspread. ,original,
+coll002,coll001,ggdinscription2.jpg,Bedspread Inscription,image/jpeg,1993,hand-stitching,"Dye,Elaine","A hand-stitched inscription tag. Reads: ""With Love Grandma Dye 1993""",,
+coll003,coll001,ggdbedspreaddetail1.jpg,Bedspread Detail,image/jpeg,1993,cross-ctitch,"Dye,Elaine",A detail of a larger cross-stitched bedspread.,,
 coll004,,ggdcrossstitchblanket1.jpg,"Cross-Stitch Blanket with Animals, Flowers, and Text",image/jpeg,1970,cross-stitch,"Dye,Elaine","A twin-size cross-stitched blanket with Bambi and friends, flowers, and the name Sarah. Made shortly after Sarah was born.",pattern,blanket
 coll005,,ggdembroidery1.jpg,Large Embroidered Bouquet,compound_object,1986,embroidery,"Dye,Elaine",A large embroidered floral bouquet in a handmade wood frame with a written inscription. Given as a Christmas gift in 1986.,original,decor
 coll006,coll005,ggdinscription1.jpg,Handwritten Inscription,image/jpeg,1986,,"Dye,Elaine","A hand-written inscription. Reads: ""from Grandma Dye (dad made the frame) Christmas 1986""",,
@@ -12,7 +12,7 @@ coll010,,gkraggedyanneandandy1.jpg,Raggedy Anne and Andy Toys,image/jpeg,2006,st
 coll011,,gkcrossstitch1.jpg,Cross-Stitch Wedding Commemoration,image/jpeg,1998,cross-stitch,"Fischer, Kathleen","A cross-stitched commemoration of the wedding of Jim and Sarah Arnold, with floral designs, the date, and the couple's names.",original,commemoration
 coll012,,gkcrossstitchplacement1.jpg,Cross-Stitch Floral Placemat,image/jpeg,2023,cross-stitch,"Fischer, Kathleen","A cross-stitched placemat with tulips, one of a set of four, given as an apartment-warming gift.",pattern,placemat
 coll013,,gkpillow1.jpg,Set of Quilted Pillows,compound_object,2017,quilting; hand-stitching,"Fischer, Kathleen","A pair of quilted pillows, with a hand-stitched tag. Made as a 16th birthday gift.",original,pillow
-coll014,coll013,gkinscription2.jpg,Quilted Pillow Inscription,image/jpeg,2017,hand-stitching,"Fischer, Kathleen","A hand-stitched inscription tag. Reads: ""Happy 16 Grandma Kathy""",orginal,
+coll014,coll013,gkinscription2.jpg,Quilted Pillow Inscription,image/jpeg,2017,hand-stitching,"Fischer, Kathleen","A hand-stitched inscription tag. Reads: ""Happy 16 Grandma Kathy""",,
 coll015,,gkpillow2.jpg,Crewelwork Pillow,image/jpeg,1980,crewelwork,"Fischer, Kathleen",A crewelwork pillow with an imaginative floral design and a bird. Given as an apartment-warming gift.,pattern,pillow
 coll016,,gkembroidery1.jpg,Ethan's Embroidered Birth Commemoration,image/jpeg,2005,embroidery,"Fischer, Kathleen",An embroidered commemoration of the birth of Ethan Arnold featuring a sleeping boy and floral elements. ,pattern,commemoration
 coll017,,gkembroidery2.jpg,Julia's Embroidered Birth Commemoration,image/jpeg,2001,embroidery,"Fischer, Kathleen",An embroidered commemoration of the birth of Julia Arnold featuring a baby and a bear.,pattern,commemoration
