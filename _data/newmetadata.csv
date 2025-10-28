@@ -1,4 +1,4 @@
-objectid,parentid,filename,title,format,date,subject,creator,description,origin ,use
+objectid,parentid,filename,title,format,date,subject,creator,description,origin,use
 coll001,,ggdcrossstitchbedspread1.jpg,Floral Cross-Stitch Bedspread,compound_object,1993,cross-stitch; quilting; hand-stitching,"Dye,Elaine",A queen-size cross-stitched bedspread with a repeating floral pattern and a hand-stitched inscription.,original,bedspread
 coll002,coll001,ggdinscription2.jpg,Bedspread Inscription,image/jpeg,1993,hand-stitching,"Dye,Elaine","A hand-stitched inscription tag. Reads: ""With Love Grandma Dye 1993""",original,
 coll003,coll001,ggdbedspreaddetail1.jpg,Floral Cross-Stitch Bedspread Detail,image/jpeg,1993,cross-stitch,"Dye,Elaine",A detail of a larger cross-stitched bedspread. ,original,
