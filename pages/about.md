@@ -11,7 +11,6 @@ credits: true
 {% include feature/jumbotron.html objectid="/objects/anchorpic.jpg" %}
 
 ## About the Collection
-
 This collection
 
 
