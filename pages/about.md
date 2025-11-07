@@ -14,4 +14,4 @@ This collection
 
 
 
-{% include feature/image.html objectid="/objects/featuredpic.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
+{% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
