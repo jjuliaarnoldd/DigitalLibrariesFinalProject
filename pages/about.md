@@ -14,3 +14,6 @@ credits: true
 
 This collection
 
+
+
+{% include feature/image.html objectid="/objects/featuredpic.jpg" %}
