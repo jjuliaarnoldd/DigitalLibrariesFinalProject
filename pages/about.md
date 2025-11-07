@@ -14,5 +14,5 @@ credits: true
 
 ## About the Collection
 
-This site 
+This collection
 
