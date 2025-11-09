@@ -14,3 +14,7 @@ This collection
 
 
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
+
+
+{% include feature/image.html objectid="inuse1;inuse2" width="75" caption="A floral embroidered napkin in use.;A floral embroidered table runner in use." %}
+
