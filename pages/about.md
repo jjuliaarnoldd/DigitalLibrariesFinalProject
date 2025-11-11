@@ -18,5 +18,5 @@ This collection
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
-{% include feature/image.html objectid="/objects/sarah:sophiacrossstitchwip3.jpg;/objects/completedcrossstitch.jpg" width="75" caption="A large floral cross-stitch with a bee, still in the embroidery frame as it is a work in progress.;Completed cross-stitch with cross-stitching by Sarah Arnold and back-stitching by Sophia Arnold." %}
-Though it was ultimatley completed during the process of the project, I chose to include the "work-in-progress" version of the above cross-stitch in the metadata record to demonstrate the dynamic and continually evolving nature of the collection. 
+{% include feature/image.html objectid="/objects/sarah:sophiacrossstitchwip3.jpg;/objects/completedcrossstitch.jpg" width="75" caption="A large floral cross-stitch with a bee, still in the embroidery frame as it is a work in progress.;Completed piece with cross-stitching by Sarah Arnold and back-stitching by Sophia Arnold." %}
+Though it was ultimatley completed during the process of the project, my official collection includes the "work-in-progress" version of the above cross-stitch to demonstrate the dynamic and continually evolving nature of the collection. 
