@@ -14,3 +14,6 @@ permalink: /artists.html
 
 
 {% include feature/button.html text="Sophia Arnold" link="https://jjuliaarnoldd.github.io/DigitalLibrariesFinalProject/browse.html#arnold%2C%20sophia" color="success" %}
+
+
+{% include feature/button.html text="Julia Arnold" link="https://jjuliaarnoldd.github.io/DigitalLibrariesFinalProject/browse.html#arnold%2C%20julia" color="success" %}
