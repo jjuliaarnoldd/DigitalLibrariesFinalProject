@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Artist,,,Artist
-subject,Subject,true,,Subject
-origin,Origin,true,,Origin
-use,Use,true,,Use
+creator,Artist,,,
+subject,,true
+origin,,true
+use,,true
