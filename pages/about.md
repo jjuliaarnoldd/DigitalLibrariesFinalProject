@@ -8,15 +8,15 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include feature/jumbotron.html objectid="/objects/anchorpic.jpg" %}
-## About the Collection
+# About the Collection
 ### In loving memory of Elaine Dye.
 
-This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. 
+This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work have not always been accorded the same levels of appreciation as "fine" or "high" art. 
 
 
 
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
-The collection's featured image includes a s
+The collection's featured image includes a selection of pieces that are unattributed and undated, which precludes them from inclusion in the collection itself. 
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
