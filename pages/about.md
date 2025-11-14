@@ -14,9 +14,8 @@ credits: false
 This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work have not always been accorded the same levels of appreciation as "fine" or "high" art. 
 
 
-
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
-The collection's featured image includes a selection of pieces that are unattributed and undated, which precludes them from inclusion in the collection itself. 
+The collection's featured image depicts a selection of pieces that are unattributed and undated, which precludes them from inclusion in the collection itself. The total body of textile and fiber art created across the generations is significantly larger, but unfortunatley, there is no specific information attatched to them.     
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
