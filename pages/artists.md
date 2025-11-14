@@ -14,7 +14,7 @@ permalink: /artists.html
 
 
 {% include feature/button.html text="Julia Arnold" link="https://jjuliaarnoldd.github.io/DigitalLibrariesFinalProject/browse.html#arnold%2C%20julia" color="success" %}
-A first year student in Indiana University's Dual Degree Masters of Library Science and Art History Master's program, Julia is interested in studying the fiber and textile work of her family as well as much more celebrated artists such as Faith Ringgold.She typically enjoys alternate forms of artistic expression, though the collection does include an example of her textile work. On weekend trips to Grandma Kathy's house, she learned to sew sitting on her grandma's knee, guiding the fabric though her legs were too short to press the pedal. 
+A first year student in Indiana University's Dual Degree Masters of Library Science and Art History Master's program, Julia is interested in studying the fiber and textile work of her relatives as well as much more celebrated artists such as Faith Ringgold. On weekend trips to her Grandma Kathy's house, she learned to sew sitting at the machine on her grandma's knee, guiding the fabric though her legs were too short to press the pedal. These days, her hands-on engagement with fiber and texile work is primarily practical, such as adding buttons or fixing a hem. She typically enjoys alternate forms of artistic expression, though the collection does include a lone example of her textile work.
 
 
 {% include feature/button.html text="Sophia Arnold" link="https://jjuliaarnoldd.github.io/DigitalLibrariesFinalProject/browse.html#arnold%2C%20sophia" color="success" %}
