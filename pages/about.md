@@ -10,12 +10,13 @@ credits: false
 {% include feature/jumbotron.html objectid="/objects/anchorpic.jpg" %}
 # About the Collection
 ## In loving memory of Elaine Dye.
-This collection highlights the fiber and textile art made by four generations of women in my family. 
+
+This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. 
 
 
 
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
-
+The collection's featured image includes a s
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
