@@ -11,13 +11,13 @@ credits: false
 # About the Collection
 ### In loving memory of Elaine Dye.
 
-This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work have not always been accorded the same levels of recognition or appreciation as that which has been termed "fine" or "high" art. 
+This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work has not always been accorded the same levels of recognition or appreciation as that which has been termed "fine" or "high" art. 
 
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
-The collection's featured image depicts a small selection of pieces that are unattributed and undated, which precludes them from inclusion in the collection itself. The total body of textile and fiber art created across the generations is significantly larger, but unfortunatley, there is no specific information attatched to many works so no metadata can be generated. The featured image, as well as the picture at the top of this page and two below, are meant to illustrate the much broader scope of work that exists outside of what is featured in the collection.       
+The collection's featured image showcases a small selection of unattributed and undated pieces, which precludes their inclusion in the collection itself. The total body of textile and fiber art created across the generations is significantly larger, but unfortunately, there is no specific information attached to many works, so no metadata can be generated. The featured image, as well as the picture at the top of this page and the two below, are intended to illustrate the much broader scope of work that exists beyond what is featured in the collection.       
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
 
 {% include feature/image.html objectid="/objects/sarah:sophiacrossstitchwip3.jpg;/objects/completedcrossstitch.jpg" width="75" caption="A large floral cross-stitch with a bee, still in the embroidery frame as it is a work in progress.;Completed piece with cross-stitching by Sarah Arnold and back-stitching by Sophia Arnold." %}
-Although it was ultimatley completed during the process of the project, only the "work in progress" version of the above cross-stitch is included in the collection, in hope of demonstrating its dynamic and continually evolving nature. 
+Although it was ultimately completed during the process of the project, only the "work in progress" version of the above cross-stitch is included in the collection, in hope of demonstrating its dynamic and continually evolving nature. 
