@@ -9,7 +9,7 @@ credits: false
 ---
 {% include feature/jumbotron.html objectid="/objects/anchorpic.jpg" %}
 # About the Collection
-This collection
+This collection highlights the fiber and textile art made by four generations of women in my family. 
 
 
 
