@@ -6,4 +6,4 @@ permalink: /timeline.html
 ---
 
 ## Collection Timeline
-To view the materials within a compound object, please click the generic multi-file image preceeding the internal items.
+To view the materials within a compound object, please click the generic multi-file image preceding the pictures of the internal items.
