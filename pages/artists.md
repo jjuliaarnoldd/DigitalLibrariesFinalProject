@@ -3,7 +3,7 @@ title: Artists
 layout: about
 permalink: /artists.html
 ---
-## Artist Profiles
+# Artist Profiles
 View the work of each artist by clicking the green button above the corresponding description.
 
 {% include feature/button.html text="Elaine Dye" link="https://jjuliaarnoldd.github.io/DigitalLibrariesFinalProject/browse.html#dye%2C%20elaine" color="success" %}
