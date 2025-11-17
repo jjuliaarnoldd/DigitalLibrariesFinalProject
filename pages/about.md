@@ -19,11 +19,11 @@ The collection's featured image showcases a small selection of unattributed and 
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
-As illustrated by the two pictures above, the textile and fiber art produced by the Dye/Fischer/Arnold family remain in daily use. Many of the pieces featured in the collection serve everyday purposes, but unattributed works such as the ones previously discussed are perhaps even more frequently employed. This collection allows for the simaltaneous exhibition of a body of work that exists both in and out of use by a range of relatives.
+As illustrated by the two pictures above, the textile and fiber art produced by the Dye/Fischer/Arnold family remains in daily use. Many of the pieces featured in the collection serve everyday purposes, but unattributed works such as the ones previously discussed are perhaps even more frequently employed. This collection allows for the simultaneous exhibition of a body of work that exists both in and out of use by a range of relatives.
 
 {% include feature/image.html objectid="/objects/ggdcrossstitch1.jpg" width="50" caption="A cross-stitched image of scales and a quill pen with ink, commemorating Sarah Arnold's 1996 graduation from The Maurer School of Law at Indiana University." %}
 
-In addition to the more practical pieces in the collection such as placemats and various types of decor, many works have been created with special occasions in mind, which was especially helpful when it came to building out the metadata. 
+In addition to the more practical pieces in the collection, such as placemats and various types of decor, many works have been created with special occasions in mind, which was especially helpful when it came to building out the metadata. The  fields "commemoration," which applies to seven items in the collection, and "inscription," which applies to four items, demonstrate the specific intentions behind such pieces. Additionally, ten items, which can be found through a search for "gift" in the top search bar, were given as gifts either on birthdays, holidays, or on the occasion of moving into a new apartment. 
 
 {% include feature/image.html objectid="/objects/sarah:sophiacrossstitchwip3.jpg;/objects/completedcrossstitch.jpg" width="75" caption="A large floral cross-stitch with a bee, still in the embroidery frame as it is a work in progress.;Completed piece with cross-stitching by Sarah Arnold and back-stitching by Sophia Arnold." %}
 
