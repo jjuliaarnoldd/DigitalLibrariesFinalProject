@@ -29,4 +29,4 @@ In addition to the more practical pieces in the collection, such as placemats an
 
 Despite the fact that it was ultimately completed during the process of the project, only the "work in progress" version of the above cross-stitch is included in the collection, in hope of demonstrating its dynamic and continually evolving nature. Although the body of work will only continue to grow, this collection and the pieces it contains are a testament to the sore fingers and strained eyes of four generations of women in the Dye/Fischer/Arnold family, as well as a celebration of the labor of love that is fiber and textile art.  
 
-{% include feature/image.html objectid="/objects/ggdinscription2.jpg" width="50" %}
+{% include feature/image.html objectid="/objects/ggdinscription2.jpg" width="25" %}
