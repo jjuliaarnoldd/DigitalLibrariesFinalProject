@@ -11,7 +11,7 @@ credits: false
 # About the Collection
 ### In loving memory of Elaine Dye.
 
-This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work has not always been accorded the same levels of recognition or appreciation as that which has been termed "fine" or "high" art. ADD MORE HERE
+This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work has not always been accorded the same levels of recognition or appreciation as that which has been deemed "fine" or "high" art. While not always inapplicable, terms such as "craft," "hobby," or "amateur" devalue the considerable labor that goes into fiber art, which has long been practiced by women and is largely comprised of functional items. The often gendered and utilitarian nature of textile work has contributed to its somewhat fringe relationship to the discipline of art history, as well as the fact that most of the textile and fiber pieces of past civilizations, made of organic materials, are no longer extant, so the canon was formed in the absence of such works. A very small act of remediation, this collection aims to elevate the medium, satisfy curiosity, and inspire the textile and fiber art of others. 
 
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
 
@@ -19,7 +19,7 @@ The collection's featured image showcases a small selection of unattributed and 
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
-As illustrated by the two pictures above, the textile and fiber art produced by the Dye/Fischer/Arnold family remains in daily use. Many of the pieces featured in the collection serve everyday purposes, but unattributed works such as the ones previously discussed are perhaps even more frequently employed. This collection allows for the simultaneous exhibition of a body of work that exists both in and out of use by a range of relatives.
+As illustrated by the two pictures above, the textile and fiber pieces produced by the Dye/Fischer/Arnold family remain in daily use. Many of the items featured in the collection serve everyday purposes, but unattributed works such as the ones previously discussed are perhaps even more frequently employed. This collection allows for the simultaneous exhibition of a body of work that exists both in and out of use by a range of relatives.
 
 {% include feature/image.html objectid="/objects/ggdcrossstitch1.jpg" width="50" caption="A cross-stitched image of scales and a quill pen with ink, commemorating Sarah Arnold's 1996 graduation from The Maurer School of Law at Indiana University." %}
 
