@@ -11,7 +11,7 @@ credits: false
 # About the Collection
 ### In loving memory of Elaine Dye.
 
-This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work has not always been accorded the same levels of recognition or appreciation as that which has been termed "fine" or "high" art. (add more here) 
+This collection highlights the fiber and textile art of four generations of women in the Dye/Fischer/Arnold family. In addition to bringing a variety of pieces together in one place, the collection is intended to celebrate the medium as fiber and textile work has not always been accorded the same levels of recognition or appreciation as that which has been termed "fine" or "high" art. ADD MORE HERE
 
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
 
