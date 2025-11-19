@@ -19,7 +19,7 @@ The collection's featured image showcases a small selection of unattributed and 
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
-As illustrated by the two pictures above, the textile and fiber pieces produced by the Dye/Fischer/Arnold family remain in daily use. However, some items are seasonal so they are not always in use, and the full body of work is so large that it is not possible to make use of every item, so many pieces such as table runners or doilies are kept in storage. This collection allows for the simultaneous exhibition of a body of work that exists both in and out of use by a range of relatives.
+As illustrated by the two pictures above, the textile and fiber pieces produced by the Dye/Fischer/Arnold family remain in daily use. However, some items are seasonal so they are not always in use, and the full body of work is so large that it is not possible to utilize every item, so many pieces such as table runners or doilies are kept in storage. This collection allows for the simultaneous exhibition of a body of work that exists both in and out of use by a range of relatives.
 
 {% include feature/image.html objectid="/objects/ggdcrossstitch1.jpg" width="50" caption="A cross-stitched image of scales and a quill pen with ink, commemorating Sarah Arnold's 1996 graduation from The Maurer School of Law at Indiana University." %}
 
