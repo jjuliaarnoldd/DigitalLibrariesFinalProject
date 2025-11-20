@@ -15,7 +15,7 @@ This collection highlights the fiber and textile art of four generations of wome
 
 {% include feature/image.html objectid="/objects/newfeaturedimage.jpg" width="75" caption="A collage of unattributed and undated embroidery pieces." %}
 
-The featured image, included above this paragraph, showcases a small selection of unattributed and undated pieces, which precludes them from inclusion in the collection itself. Although the total body of textile and fiber art created across the generations is significantly larger than the collection itself suggests,many works are without any specific identifying information, so no metadata can be generated. The featured image, as well as the picture at the top of this page and the two below this paragraph, are intended to imply the much broader scope of work that exists beyond the collection.  
+The featured image, included above this paragraph, showcases a small selection of unattributed and undated pieces, which precludes them from inclusion in the collection itself. Although the total body of textile and fiber art created across the generations is significantly larger than the collection itself suggests, many works are without any specific identifying information, so no metadata can be generated. The featured image, as well as the picture at the top of this page and the two below this paragraph, are intended to imply the much broader scope of work that exists beyond the collection.  
 
 {% include feature/image.html objectid="/objects/inuse2.jpg;/objects/inuse1.jpg" width="75" caption="A floral embroidered table runner in use.;A floral embroidered napkin in use." %}
 
