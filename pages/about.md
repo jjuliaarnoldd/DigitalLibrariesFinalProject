@@ -27,7 +27,7 @@ In addition to pieces such as placemats and or pillows that serve practical purp
 
 {% include feature/image.html objectid="/objects/sarah:sophiacrossstitchwip3.jpg;/objects/completedcrossstitch.jpg" width="75" caption="A large floral cross-stitch with a bee, still in the embroidery frame as it is a work in progress.;Completed piece with cross-stitching by Sarah Arnold and back-stitching by Sophia Arnold." %}
 
-Despite the fact that it was ultimately completed during the process of the project, only the "work in progress" version of the above cross-stitch is included in the collection, in hope of demonstrating its dynamic and continually evolving nature. Although the body of work is still actively growing, this collection and the pieces it contains are a testament to the sore fingers and strained eyes of four generations of women in the Dye/Fischer/Arnold family, as well as a celebration of the labor of love that is fiber and textile art.  
+Despite the fact that it was ultimately completed during the process of the project, only the "work in progress" version of the above cross-stitch is included in the collection, in hope of demonstrating its dynamic and evolving nature. Although the body of work is still actively growing, this collection and the pieces it contains are a testament to the sore fingers and strained eyes of four generations of women in the Dye/Fischer/Arnold family, as well as a celebration of the labor of love that is fiber and textile art.  
 
 {% include feature/image.html objectid="/objects/ggdinscription2.jpg" width="25" %}
 
